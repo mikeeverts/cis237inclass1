@@ -13,6 +13,9 @@ namespace cis237inclass1
 
             Console.WriteLine("This is text");
             Console.WriteLine("this is also text");
+
+            //This is a note
+            Console.WriteLine("Text for second commit");
         }
     }
 }
